@@ -2,7 +2,7 @@
 <body>
     <a href="G:\itheima\tomcat\day28_2\web\1.jpg" > rr</a>
     <a href="1.jpg" > rr</a>
-<h1>这是一个下载测试</h1>
+<h1>这是一个下载测试</h1>我我我我我我
 
 </body>
 
